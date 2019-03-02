@@ -1,6 +1,6 @@
-# AVG Avukas Miner
+# Miner
 
-Avukas Miner is a high performance CPU miner cloned from XMRig.
+This Miner is a high performance CPU miner cloned from XMRig.
 
 
 #### Table of contents
@@ -15,14 +15,8 @@ Avukas Miner is a high performance CPU miner cloned from XMRig.
 * [Contacts](#contacts)
 
 ## Features
-* High performance.
+* All that XMRig does.
 * Small Windows executable, without dependencies.
-* x86/x64 support.
-* Support for backup (failover) mining server.
-* keepalived support.
-* Command line options compatible with cpuminer.
-* CryptoNight-Lite support for AEON.
-* Nicehash support
 * It's open source software.
 
 ## Options
