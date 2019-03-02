@@ -1,4 +1,4 @@
-# XU1
+# AVG Avukas Miner
 
 Avukas Miner is a high performance CPU miner cloned from XMRig.
 
